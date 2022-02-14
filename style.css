@@ -1,0 +1,12 @@
+.draw-result {
+	color: gray;
+}
+
+.lost-result {
+	color: red;
+}
+
+.won-result {
+	color: green;
+}
+
