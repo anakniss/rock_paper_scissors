@@ -1,3 +1,19 @@
+body {
+	font-family: 'Indie Flower', cursive;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+
 .draw-result {
 	color: gray;
 }
@@ -10,3 +26,36 @@
 	color: green;
 }
 
+#title-wins {
+	font-weight: bold;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	margin: 0 0 0 15px;
+}
+
+#title-wins: hover{
+
+}
+
+#player-wins {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	margin: 0 0 0 15px;
+}
+
+#computer-wins {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	margin: 0 0 0 
+}
+
+#result {
+	font-size: 20px;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	margin: 0 0 0 
+}
